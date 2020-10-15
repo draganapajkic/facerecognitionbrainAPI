@@ -14,7 +14,7 @@ const db = knex({
     connection: {
       host : 'postgresql-defined-49395', //ovo je localhost
       user : 'postgres',
-      password : '',
+      password : 'gaga5545454',
       database : 'smartbrain'
     }
   });
